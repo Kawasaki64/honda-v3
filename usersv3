@@ -901,6 +901,7 @@
         "Crain" : "accesskey-Crain",
         "popil" : "accesskey-popil",
         "swapylegend" : "accesskey-swapylegend",
-        "penal" : "accesskey-penal"
+        "penal" : "accesskey-penal",
+        "famex" : "accesskey-famex"
     }
 }
